@@ -1,5 +1,8 @@
+ï»¿<html>
+<head><meta charset="utf-8"/></head>
+<body>
 <?php
-echo 'ƒŠƒ_ƒCƒŒƒNƒg';
+echo 'ãƒªãƒ€ã‚¤ãƒ¬ã‚¯ãƒˆ';
 if ($_REQUEST) {
     foreach ($_REQUEST as $aRow) {
         echo '<br>';
@@ -9,3 +12,5 @@ if ($_REQUEST) {
 
 ?>
 <a href="./Web Push Notification Journey Builder Custom Activity _ Demo Center.htm">Demo</a>
+</body>
+</html>
